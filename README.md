@@ -1,2 +1,2 @@
 # MachineLearning
-This is a reo for my machine learning related works.
+This is a repo for my machine learning related works.
